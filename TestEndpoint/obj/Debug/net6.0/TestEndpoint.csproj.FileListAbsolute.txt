@@ -1,0 +1,12 @@
+/Users/bochen/Tutorials/Dotnet/PluginArchitecture/TestEndpoint/bin/Debug/net6.0/TestEndpoint.deps.json
+/Users/bochen/Tutorials/Dotnet/PluginArchitecture/TestEndpoint/bin/Debug/net6.0/TestEndpoint.dll
+/Users/bochen/Tutorials/Dotnet/PluginArchitecture/TestEndpoint/bin/Debug/net6.0/TestEndpoint.pdb
+/Users/bochen/Tutorials/Dotnet/PluginArchitecture/TestEndpoint/obj/Debug/net6.0/TestEndpoint.csproj.AssemblyReference.cache
+/Users/bochen/Tutorials/Dotnet/PluginArchitecture/TestEndpoint/obj/Debug/net6.0/TestEndpoint.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bochen/Tutorials/Dotnet/PluginArchitecture/TestEndpoint/obj/Debug/net6.0/TestEndpoint.AssemblyInfoInputs.cache
+/Users/bochen/Tutorials/Dotnet/PluginArchitecture/TestEndpoint/obj/Debug/net6.0/TestEndpoint.AssemblyInfo.cs
+/Users/bochen/Tutorials/Dotnet/PluginArchitecture/TestEndpoint/obj/Debug/net6.0/TestEndpoint.csproj.CoreCompileInputs.cache
+/Users/bochen/Tutorials/Dotnet/PluginArchitecture/TestEndpoint/obj/Debug/net6.0/TestEndpoint.dll
+/Users/bochen/Tutorials/Dotnet/PluginArchitecture/TestEndpoint/obj/Debug/net6.0/refint/TestEndpoint.dll
+/Users/bochen/Tutorials/Dotnet/PluginArchitecture/TestEndpoint/obj/Debug/net6.0/TestEndpoint.pdb
+/Users/bochen/Tutorials/Dotnet/PluginArchitecture/TestEndpoint/obj/Debug/net6.0/ref/TestEndpoint.dll

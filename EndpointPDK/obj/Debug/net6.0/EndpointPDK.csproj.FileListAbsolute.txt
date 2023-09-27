@@ -1,0 +1,12 @@
+/Users/bochen/Tutorials/Dotnet/PluginArchitecture/EndpointPDK/bin/Debug/net6.0/EndpointPDK.deps.json
+/Users/bochen/Tutorials/Dotnet/PluginArchitecture/EndpointPDK/bin/Debug/net6.0/EndpointPDK.dll
+/Users/bochen/Tutorials/Dotnet/PluginArchitecture/EndpointPDK/bin/Debug/net6.0/EndpointPDK.pdb
+/Users/bochen/Tutorials/Dotnet/PluginArchitecture/EndpointPDK/obj/Debug/net6.0/EndpointPDK.csproj.AssemblyReference.cache
+/Users/bochen/Tutorials/Dotnet/PluginArchitecture/EndpointPDK/obj/Debug/net6.0/EndpointPDK.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bochen/Tutorials/Dotnet/PluginArchitecture/EndpointPDK/obj/Debug/net6.0/EndpointPDK.AssemblyInfoInputs.cache
+/Users/bochen/Tutorials/Dotnet/PluginArchitecture/EndpointPDK/obj/Debug/net6.0/EndpointPDK.AssemblyInfo.cs
+/Users/bochen/Tutorials/Dotnet/PluginArchitecture/EndpointPDK/obj/Debug/net6.0/EndpointPDK.csproj.CoreCompileInputs.cache
+/Users/bochen/Tutorials/Dotnet/PluginArchitecture/EndpointPDK/obj/Debug/net6.0/EndpointPDK.dll
+/Users/bochen/Tutorials/Dotnet/PluginArchitecture/EndpointPDK/obj/Debug/net6.0/refint/EndpointPDK.dll
+/Users/bochen/Tutorials/Dotnet/PluginArchitecture/EndpointPDK/obj/Debug/net6.0/EndpointPDK.pdb
+/Users/bochen/Tutorials/Dotnet/PluginArchitecture/EndpointPDK/obj/Debug/net6.0/ref/EndpointPDK.dll
