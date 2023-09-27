@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "EndpointPDK/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/EndpointPDK.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EndpointPDK.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "EndpointPDK/1.0.0": {
+      "type": "project",
+      "path": "../EndpointPDK/EndpointPDK.csproj",
+      "msbuildProject": "../EndpointPDK/EndpointPDK.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "EndpointPDK >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/bochen/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/bochen/Tutorials/Dotnet/PluginArchitecture/Server/Server.csproj",
+      "projectName": "Server",
+      "projectPath": "/Users/bochen/Tutorials/Dotnet/PluginArchitecture/Server/Server.csproj",
+      "packagesPath": "/Users/bochen/.nuget/packages/",
+      "outputPath": "/Users/bochen/Tutorials/Dotnet/PluginArchitecture/Server/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/bochen/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/bochen/Tutorials/Dotnet/PluginArchitecture/EndpointPDK/EndpointPDK.csproj": {
+              "projectPath": "/Users/bochen/Tutorials/Dotnet/PluginArchitecture/EndpointPDK/EndpointPDK.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.414/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
